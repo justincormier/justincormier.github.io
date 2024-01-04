@@ -1,0 +1,40 @@
+{
+  "name": "justincormier.com",
+  "version": "1.0.0",
+  "description": "Justin Cormier Portfolio Website - Hosted on GitHub Pages",
+  "main": "gulpfile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/justincormier/justincormier.github.io.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/justincormier/justincormier.github.io/issues"
+  },
+  "homepage": "https://github.com/justincormier/justincormier.github.io#readme",
+  "dependencies": {
+    "gulp": "^4.0.2",
+    "gulp-sass": "^5.1.0"
+  },
+  "devDependencies": {
+    "gulp-autoprefixer": "^8.0.0",
+    "sass": "^1.66.1"
+  },
+  "browserslist": [
+    "> 1%",
+    "ie >= 8",
+    "edge >= 15",
+    "ie_mob >= 10",
+    "ff >= 45",
+    "chrome >= 45",
+    "safari >= 7",
+    "opera >= 23",
+    "ios >= 7",
+    "android >= 4",
+    "bb >= 10"
+  ]
+}
